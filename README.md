@@ -9,7 +9,8 @@ This project presents a comprehensive data analysis for a hospital management sy
 
 
  Database Schema | هيكل قاعدة البيانات
-المشروع يتعامل مع الجداول التالية المترابطة:
+ 
+ المشروع يتعامل مع الجداول التالية المترابطة : 
 - Patients (بيانات المرضى)
 - Doctors (بيانات الأطباء)
 - Departments (الأقسام الطبية)
