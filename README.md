@@ -1,8 +1,9 @@
 # Hospital-SQL-Project 
 # مشروع تحليل بيانات المستشفى باستخدام SQL
 
- Project Overview | نبذة عن المشروع
-هذا المشروع عبارة عن تحليل شامل لبيانات مستشفى افتراضي باستخدام لغة SQL Server يهدف المشروع إلى الإجابة على مجموعة من الأسئلة التشغيلية والمالية التي تهم الإدارة التنفيذية  مثل تتبع مواعيد المرضى وتقييم أداء الأطباء والأقسام وحساب الإيرادات والقيمة الدائمة للمريض (Patient Lifetime Value) و تصميم استعلامات تدعم لوحات التحكم التنفيذية (Executive Dashboards).
+Project Overview | نبذة عن المشروع
+
+هذا المشروع عبارة عن تحليل شامل لبيانات مستشفى افتراضي باستخدام لغةSQL Server يهدف المشروع إلى الإجابة على مجموعة من الأسئلة التشغيلية والمالية التي تهم الإدارة التنفيذية  مثل تتبع مواعيد المرضى وتقييم أداء الأطباء والأقسام وحساب الإيرادات والقيمة الدائمة للمريض (Patient Lifetime Value) و تصميم استعلامات تدعم لوحات التحكم التنفيذية (Executive Dashboards).
 
 This project presents a comprehensive data analysis for a hospital management system using SQL Server . It tackles complex business questions related to patient journeys, doctor performance, departmental revenue, and financial metrics to support executive decision-making.
 
